@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Aquacultura 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">History</string>
+    <string name="menu_slideshow">Favorites</string>
+
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_password">Password</string>
+    <string name="button">Registrar</string>
+    <string name="botonAnterior">Anterior</string>
+    <string name="item1">Opción 1</string>
+    <string name="item2">Opción 2</string>
+    <string name="item3">Opción 3</string>
+
+    <string name="txt_codigo">Código del producto</string>
+    <string name="txt_descripcion">Descripción del producto</string>
+    <string name="txt_precio">Precio del producto</string>
+    <string name="BotonRegistrar">Registrar Producto</string>
+    <string name="BotonBuscar">Buscar Producto</string>
+    <string name="BotonEliminar">Eliminar Producto</string>
+    <string name="BotonModificar">Modificar Producto</string>
+
+
+</resources>
